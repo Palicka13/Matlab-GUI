@@ -1,0 +1,6 @@
+function select = selectSort(pole)
+tempMin = pole(1);
+while true
+    
+end
+end
